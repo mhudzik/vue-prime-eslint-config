@@ -1,0 +1,25 @@
+{
+  "name": "vue-prime-eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint configuration for Vue and TypeScript files for consistent code quality.",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": "Mateusz Hudzik <mateusz.hudzik@devprime.pl",
+  "keywords": [
+    "eslint",
+    "config",
+    "vue",
+    "typescript",
+    "plugin"
+  ],
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
