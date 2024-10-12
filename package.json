@@ -1,5 +1,5 @@
 {
-  "name": "vue-prime-eslint-config",
+  "name": "@dev-prime/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration for Vue and TypeScript files for consistent code quality.",
   "main": "dist/index.js",
